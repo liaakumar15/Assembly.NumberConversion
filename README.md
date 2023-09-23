@@ -1,5 +1,6 @@
 # Assembly.NumberConversion
 //Completed Project for Computer Architecture Course: Fall 2023
+//Written in MIPS assembly language for the MARS simulator
 
 Program Outline:
 1. Initialize an accumulator (variable or register) to zero.
